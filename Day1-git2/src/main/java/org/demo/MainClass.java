@@ -7,6 +7,8 @@ public static void main(String[] args) {
 	greet();
 
 	printall();
+	Customer c=new Customer();
+	c.show();
 }
 public static void greet()
 {
