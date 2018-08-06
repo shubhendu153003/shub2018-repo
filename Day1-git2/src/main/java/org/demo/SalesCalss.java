@@ -4,9 +4,8 @@ public class SalesCalss {
 int []arr= {1,2,3};
   public void show()
   {
-	for(int a:arr)
-	{
-		System.out.println(a);
+	for(int i=0;i<2;i++) {
+		System.out.println(arr[i]);
 	}
   }
   }
