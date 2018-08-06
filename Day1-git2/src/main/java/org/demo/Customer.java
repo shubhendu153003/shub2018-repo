@@ -3,6 +3,6 @@ package org.demo;
 public class Customer {
 public void show()
 {
-	System.out.println("this is customer");
+	System.out.println("My name is khan");
 }
 }
