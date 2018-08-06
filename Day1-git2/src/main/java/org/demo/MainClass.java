@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	System.out.println("Hello java");
 	greet();
 
-	
+	Customer c=new Customer();
 }
 public static void greet()
 {
